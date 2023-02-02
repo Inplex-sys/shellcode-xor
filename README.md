@@ -1,2 +1,3 @@
 # shellcode-xor
-Generate shellcode
+
+`python3 main.py <file>`
